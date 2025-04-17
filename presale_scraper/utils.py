@@ -26,13 +26,11 @@ def combined_df(url, input_time):
     df_list = []
     city_counts = {}  # 用於記錄每個縣市的資料筆數
     
-    # 建立進度條但不顯示縣市名稱
-    pbar = tqdm(url.items(), total=len(url))
+    print("開始處理各縣市資料：")
     
     # 迴圈走訪所有 URL，並新增表示地區和輸入時間的欄位
-    for city_name, uni_url in pbar:
-        # 更新進度條描述以顯示目前處理的縣市名稱
-        pbar.set_description(f"處理 {city_name} 中")
+    for city_name, uni_url in url.items():
+        print(f"處理 {city_name} 中...", end="", flush=True)
         
         df_temp = fetch_data(uni_url)
         if not df_temp.empty:
@@ -43,8 +41,10 @@ def combined_df(url, input_time):
             row_count = len(df_temp)
             city_counts[city_name] = row_count
             
-            # 在進度條中顯示筆數信息
-            pbar.set_description(f"處理 {city_name} 中 (找到 {row_count} 筆)")
+            # 直接打印當前縣市的資料筆數
+            print(f" 完成! 找到 {row_count} 筆資料")
+        else:
+            print(" 完成! 找到 0 筆資料")
             
         df_list.append(df_temp)
         time.sleep(1)  # 每次發出請求後暫停 1 秒
@@ -52,10 +52,10 @@ def combined_df(url, input_time):
     # 利用 pd.concat 合併所有 DataFrame（重置索引）
     combined_df = pd.concat(df_list, ignore_index=True)
     
-    # 顯示每個縣市的資料筆數
-    print("\n各縣市資料筆數統計:")
-    for city, count in city_counts.items():
-        print(f"{city}: {count} 筆")
+    # # 顯示各縣市資料筆數統計
+    # print("\n各縣市資料筆數統計:")
+    # for city, count in city_counts.items():
+    #     print(f"{city}: {count} 筆")
     
     # 顯示合併後的總筆數
     total_rows = len(combined_df)
@@ -142,3 +142,5 @@ def sales_start_time(row):
     # Rule 4: 其餘情況，回傳空值
     else:
         return ""
+    
+
