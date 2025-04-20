@@ -1,0 +1,267 @@
+{
+    "status": 1,
+    "msg": "success",
+    "data": {
+        "hid": 130590,
+        "regionid": 8,
+        "sectionid": 104,
+        "region": "台中市",
+        "section": "西屯區",
+        "addr_number": "文心路三段、青海路二段",
+        "address": "台中市西屯區文心路三段、青海路二段",
+        "build_name": "VVS1",
+        "price_unit": {
+            "pending": 1,
+            "price": "價格待定",
+            "unit": ""
+        },
+        "price_total": {
+            "pending": 1,
+            "price": "價格待定",
+            "unit": ""
+        },
+        "price": {
+            "pending": 1,
+            "price": "待定",
+            "unit": ""
+        },
+        "build_type": 1,
+        "build_type_name": "預售屋",
+        "is_upscale": 0,
+        "status": 2,
+        "is_online": 1,
+        "layout": [
+            {
+                "room": "二房",
+                "area": "23、26"
+            },
+            {
+                "room": "三房",
+                "area": "34、36"
+            },
+            {
+                "room": "店面",
+                "area": "51~140"
+            }
+        ],
+        "purpose": 3,
+        "purpose_name": "住宅大樓",
+        "purpose_other_name": "住商用",
+        "deal_time": {
+            "type": "finished",
+            "date": "2026年上半年",
+            "deal": 0
+        },
+        "decorate": "標準配備",
+        "reception_address": "台中市西屯區市政北二路230號2樓",
+        "map": {
+            "pending": 0,
+            "collect_id": 1356576,
+            "lat": "24.165933",
+            "lng": "120.6518164"
+        },
+        "reception_map": {
+            "pending": 0,
+            "collect_id": 1356581,
+            "lat": "24.1638285",
+            "lng": "120.6438048"
+        },
+        "park_price": {
+            "pending": 1,
+            "price": "價格待定",
+            "unit": ""
+        },
+        "base_area": {
+            "pending": 0,
+            "area": 1478,
+            "unit": "坪"
+        },
+        "build_area": {
+            "pending": 1,
+            "area": "暫無",
+            "unit": ""
+        },
+        "terrace": {
+            "pending": 1,
+            "area": "暫無",
+            "unit": ""
+        },
+        "ratio": "34.5%",
+        "jbrate": "58.11%",
+        "park_ratio": "1:1.01",
+        "park_planning": "平面式379個、機械式168個",
+        "park_piles": "無充電設備",
+        "park_style": "暫無",
+        "manage_cost": {
+            "pending": 0,
+            "price": "75",
+            "unit": "元/坪/月"
+        },
+        "structural_engine": "SRC鋼骨鋼筋混凝土結構",
+        "land_division": "第三種商業區",
+        "households": "2棟，504戶住家，16戶店面，22戶辦公室",
+        "floor": "地上24層，地下5層",
+        "label": [
+            "近捷運",
+            "明星學區",
+            "近公園",
+            "景觀宅",
+            "低首付"
+        ],
+        "shop_price": {
+            "pending": 1,
+            "price": "價格待定",
+            "unit": ""
+        },
+        "office_price": {
+            "pending": 1,
+            "price": "價格待定",
+            "unit": ""
+        },
+        "sell_time": {
+            "date": "銷售中",
+            "sell_status": 1,
+            "sell_status_txt": "在售"
+        },
+        "down_pay": "20%",
+        "lend_rate": "80%",
+        "project_pay": "",
+        "direction_rule": "朝北、朝南、朝西、朝東",
+        "property_company": "無",
+        "manage_committee": 0,
+        "build_intro": "SRC鋼骨鋼筋混凝土 ",
+        "facility": [
+            "接待大廳",
+            "交誼廳",
+            "會議室",
+            "閱覽室",
+            "游泳池",
+            "健身房",
+            "親子遊戲區",
+            "SPA",
+            "KTV",
+            "俱樂部",
+            "信箱區",
+            "曬被區",
+            "鐵板燒區"
+        ],
+        "license": "103中都建字第02657號",
+        "use_license": "暫無",
+        "remark": "「VVS1」位於 台中市西屯區文心路三段、青海路二段 路口，由潤隆建設股份有限公司投資興建，巨豐旅館管理顧問股份有限公司企劃銷售，李明哲建築師事務所建築設計，基地面積1478坪、建蔽率58.11％，公設比34.5%，樓層規劃為地上24層，地下5層，共2棟建築，共有504戶住家，16戶店面，22戶辦公室，房數規劃為2~3房，格局坪數規劃二房(23、26坪) 、三房(34、36坪)、店面(51~140坪)。\r\n\r\n結構採SRC鋼骨鋼筋混凝土。\r\n\r\n周邊環境，步行約5分鐘約500公尺距離即可抵達學區惠來國民小學，距漢口國中約3分鐘車程，車程約3分鐘可至台中市政府新市政中心，捷運方面鄰近有文心櫻花站及市政府站可搭乘，生活各項機能都相當方便。\r\n\r\n生活採買方面，車程約3分鐘可達家樂福青海店、全聯福利中心Pxmart 文心店，逢甲夜市、逢甲商圈、青海路商圈、新市政百貨商圈等皆在附近，購物採買相當便利。\r\n\r\n交通方面，有國道一號，74號快速道路、捷運綠線可利用，輕鬆往來各縣市。\r\n",
+        "width_deep": "",
+        "room_rule": {
+            "pending": 1,
+            "room_rule": "暫無",
+            "unit": ""
+        },
+        "fav_num": 457,
+        "share_num": 1315,
+        "other_build": {
+            "hid": 0,
+            "purpose_id": 0,
+            "purpose_name": ""
+        },
+        "elevator_status_str": "",
+        "meta": {
+            "title": "VVS1建案詳情-591新建案",
+            "keywords": "VVS1,建案詳情,591新建案",
+            "description": "591新建案為您提供VVS1建案詳情，包括建案概括、建築規劃、特色說明、交通出行、周邊配套等詳細情況。了解VVS1建案詳情，就上591新建案！",
+            "info": "建案介紹：台中市VVS1，價格待定，建案地址台中市西屯區文心路三段、青海路二段，更多VVS1最新動態、開箱評價，請諮詢電話（0972-528-588轉30529）。",
+            "og_title": "來自【591新建案】",
+            "og_description": "VVS1，台中市西屯區新建案，價格待定，詳情：",
+            "og_url": "https://www.591.com.tw/8H?salt=vPq",
+            "og_photo": "https://img2.591.com.tw/house/2022/09/05/166235559618282003.jpg!fit.730x460.jpg"
+        },
+        "special_purpose": 0,
+        "transportation": [
+            {
+                "title": "捷運系統",
+                "content": "捷運綠線"
+            },
+            {
+                "title": "高速公路",
+                "content": "國道1號"
+            },
+            {
+                "title": "快速道路",
+                "content": "74號快速道路"
+            },
+            {
+                "title": "高鐵系統",
+                "content": "暫無"
+            },
+            {
+                "title": "台鐵系統",
+                "content": "暫無"
+            },
+            {
+                "title": "其他方式",
+                "content": "暫無"
+            }
+        ],
+        "surrounding": [
+            {
+                "title": "學區",
+                "content": "惠來國小 漢口國中"
+            },
+            {
+                "title": "超商/賣場",
+                "content": "家樂福、全聯"
+            },
+            {
+                "title": "傳統市場",
+                "content": "西屯市場、櫻花路市場"
+            },
+            {
+                "title": "公共建設",
+                "content": "暫無"
+            },
+            {
+                "title": "熱門商圈",
+                "content": "青海商圈 漢口商圈 逢甲商圈 "
+            },
+            {
+                "title": "醫療機構",
+                "content": "澄清醫院、林新醫院"
+            },
+            {
+                "title": "政府機構",
+                "content": "市政府 市議會"
+            },
+            {
+                "title": "其他配套",
+                "content": "暫無"
+            }
+        ],
+        "building_design": [
+            {
+                "title": "投資建設",
+                "content": "潤隆建設股份有限公司"
+            },
+            {
+                "title": "營造公司",
+                "content": "待定"
+            },
+            {
+                "title": "企劃銷售",
+                "content": "巨豐旅館管理顧問股份有限公司"
+            },
+            {
+                "title": "建築設計",
+                "content": "李明哲建築師事務所"
+            },
+            {
+                "title": "景觀設計",
+                "content": "李明哲建築師事務所"
+            },
+            {
+                "title": "公設設計",
+                "content": "pia interior室內設計公司"
+            },
+            {
+                "title": "燈光設計",
+                "content": "無"
+            }
+        ]
+    }
+}

@@ -122,6 +122,28 @@ plvrurls_1140416 = {
     "花蓮縣": "https://lvr.land.moi.gov.tw/SERVICE/QueryPrice/4952081bde320989e6707a12115e58c5?q=VTJGc2RHVmtYMTlaUTFoSHJDUVdRRE5ZbTdWaFhkYWdLU0ZlT1pEZnIveERSTVpSM2k1SmYweEN6OGtMc3oxMHZvYlVjNlFBcUFoWWVHK0xGbCttR0wxVVpvTENhWEMrTjZTVkFtQjhXTGtBV2ZwMDBlN3dlajdqME4rQVIweHNhZ09DMGFQdjZBOFRkdW5yMGRzMXB2RExQc3BxTGkxRTZVUDZPZWQ1T21QOGdnSFpaVHlsdkdhQWN6ckNSTXh6enoyY25BdGdTbW43Rnp5cG1jZGFLTVU5MTc3K3dzWmtRYWFFVkFLNk9iTFZBN29pUjN1ZHIzcnZmaE5jYUxQTkFidVBpZWExTWd4enVzVkFBR3F6UmRmVWZJcitjdDdySFBpSTdNSGxSaUxOamd1SUl2MkUrYkhWNTdiaFBNeVpLajFJZG1sSExCbExxSDNuZ3FvbUVaMDVRMlNHSDcvNVVoT1ovU3FQbEU4R2o5RXpsMHphMGJNRk9YQjhyeWh3dFh3bUZNVnBVQW5YN2M3Vm1NUTFoSy82eUM3YmlMZzRvbVpyN01oZlNLYU9mbkF3Z1Z6OXQ2SGMybTE1MXo5Y3ZKbEp0ekFMMzM0M3N2NGx1NVh5YUlOeVQ5OFNhc01JZW5mY2dkUzVkWWhkcmoxdUU3SjZyTTV4bE5ac1V5Slo0ejlpVFNkMTdLYThRdS9nTVlFNDZiVUVXRlQ5ZElpNFl0bisrYTB0MzhuTWlOUDV2azg4bDNFa0Z5WUd1L3psRFJnUEJ1SFc0aUp1YWNSaU1JMjIxU3pST095K292czN1elZackYwTlE2Y3A3c3pPdlNYT2J5dXJqYW5sU0g5ZHh0NzdmWktVSTRXTUFaK0YzQlptQUxtc3FPckVKaGNxVWM1dGpFYUtHbzVVaFJBQkRRR00rNzIvb3Z3YkZhZHJ3ak5MaTJrM3ZDNGp3TGFOb1I4N3hSYlRCQ1BwZHowT0dzYmYzaEVPMzlNPQ=="
 }
 
+# 591
+regionid={
+    "臺北市": "1",
+    "新北市": "3",
+    "桃園市": "6",
+    "新竹市": "4",
+    "新竹縣": "5",
+    "臺中市": "8",
+    "臺南市": "15",
+    "高雄市": "17",
+    "基隆市": "2",
+    "嘉義市": "12",
+    "宜蘭縣": "21",
+    "苗栗縣": "7",
+    "彰化縣": "10",
+    "南投縣": "11",
+    "雲林縣": "14",
+    "嘉義縣": "13",
+    "屏東縣": "19",
+    "臺東縣": "22",
+    "花蓮縣": "23"
+}
 
 # 其他常數設定
 REQUEST_DELAY = 5  # 請求間隔秒數
